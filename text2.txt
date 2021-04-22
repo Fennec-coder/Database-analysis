@@ -1,1 +1,5 @@
-Assume.
+So, after knowing what exactly Data Science is, you must explore why Data Science is important. So, data has become the fuel of industries. It is the new electricity. Companies require data to function, grow and improve their businesses.
+
+Data Scientists deal with the data in order to assist companies in making proper decisions. The data-driven approach undertaken by the companies with the help of Data Scientists who analyze a large amount of data to derive meaningful insights.
+
+These insights will be helpful for the companies who wish to analyze themselves and their performance in the market. Other than commercial industries, healthcare industries also use Data Science.

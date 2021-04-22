@@ -34,7 +34,7 @@ def main():
     uncrossing = set(result_of_count1) - set(result_of_count2)
 
     # вывод результата
-    print(f"Топ {count} повторяющихся слов в тексе №1:")
+    print(f"Топ {count} повторяющихся слов в тексте №1:")
     print("value\tkey")
     for key, value in result_of_count1.most_common(count):
         print(f"{value}\t:\t{key}")
