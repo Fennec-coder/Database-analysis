@@ -39,11 +39,11 @@ def main():
     for key, value in result_of_count1.most_common(count):
         print(f"{value}\t:\t{key}")
 
-    print("\nПовторяющиеся слова из двух тексов:")
+    print("\nПовторяющиеся слова из двух текстов:")
     for word in crossing:
         print(word)
 
-    print("\nНе повторяющиеся слова из двух тексов:")
+    print("\nНе повторяющиеся слова из двух текстов:")
     for word in uncrossing:
         print(word)
 
